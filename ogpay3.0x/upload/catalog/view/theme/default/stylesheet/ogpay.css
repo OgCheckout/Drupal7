@@ -1,0 +1,42 @@
+.oglogo{
+    width:40px;border: 1px solid #fff;float:right;
+}
+#ogpay-form .pull-left{
+    width:100%;
+}
+.ogpay_method{
+    padding: 5px;
+    width: 100%;
+    border-radius: 5px;
+    border-color: #a8a8a8;
+}
+.paybox{
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #cce;
+    border-radius: 5px;
+}
+.ogpay-title{
+    margin: 0px;
+    border-bottom: 1px solid #cce;
+    padding-bottom: 11px;
+    font-size: 20px;
+    text-transform:none;
+}
+.radio_payment img {
+    width: 50px;
+    height: 30px;
+}
+.radio_payment{
+    min-height: 35px;
+    line-height: 33px;
+    background: #f2f2f4;
+    border-radius: 5px;
+    padding: 0px 5px;
+}
+.radio_payment span{
+    float:right;
+}
+.radio_payment label{
+    line-height:20px;
+}
