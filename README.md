@@ -4,7 +4,7 @@ Integrating your Drupal Commerce store with Og Pay checkout services allows you 
 # Supported Verisons
 Durpal7 (v7.5 to v.7.72)
 
-# Module Steup Guide & Integration Help
+# Module Setup Guide & Integration Help
 Visit: https://ogpay.gitbook.io/og-pay/plugins-setup-guide/drupal
 
 For any integration related queries, you can get in touch with us at ogpaysupport@oneglobal.com
